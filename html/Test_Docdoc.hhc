@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+        <param name="Window Styles" value="0x801227">
+        <param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Test-Doc V0.0.0Tg1 documentation">
+    <param name="Local" value="index.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Python Module Index">
+    <param name="Local" value="py-modindex.html">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="My First Doc page">
+    <param name="Local" value="FirstDoc.html">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Some Test">
+    <param name="Local" value="FirstDoc.html#some-test">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Test for Code:">
+    <param name="Local" value="FirstDoc.html#test-for-code">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Test for replacement">
+    <param name="Local" value="FirstDoc.html#test-for-replacement">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Test for Graphiz">
+    <param name="Local" value="FirstDoc.html#test-for-graphiz">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Test for config input and conditional">
+    <param name="Local" value="FirstDoc.html#test-for-config-input-and-conditional">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="image">
+    <param name="Local" value="FirstDoc.html#image">
+</OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Style">
+    <param name="Local" value="FirstDoc.html#style">
+</OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Test STL viewer:">
+    <param name="Local" value="FirstDoc.html#test-stl-viewer">
+</OBJECT>
+<LI> <OBJECT type="text/sitemap">
+    <param name="Name" value="Exemple text">
+    <param name="Local" value="FirstDoc.html#exemple-text">
+</OBJECT>
+</UL>
+</UL></BODY></HTML>
